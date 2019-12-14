@@ -1,0 +1,3 @@
+-app/ImsSettings/ImsSettings.apk
+-lib/libantradio.so
+lib/libaptX_encoder.so
